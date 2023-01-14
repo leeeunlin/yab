@@ -1,0 +1,32 @@
+{
+  "functions": {
+    "predeploy": ["npm --prefix \"$RESOURCE_DIR\" run lint"],
+    "host": "10.0.2.2",
+    "port": 5001,
+    "source": "functions"
+  },
+  "emulators": {
+    "firestore": {
+      "port": "8080"
+    },
+    "ui": {
+      "enabled": true,
+      "port": "4000"
+    },
+    "auth": {
+      "port": "9099"
+    },
+    "functions": {
+      "port": "5001"
+    },
+    "database": {
+      "port": "9000"
+    },
+    "hosting": {
+      "port": "5000"
+    },
+    "pubsub": {
+      "port": "8085"
+    }
+  }
+}
