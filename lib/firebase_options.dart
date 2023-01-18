@@ -32,6 +32,16 @@ class DefaultFirebaseOptions {
           'DefaultFirebaseOptions have not been configured for macos - '
           'you can reconfigure this by running the FlutterFire CLI again.',
         );
+      case TargetPlatform.windows:
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for windows - '
+          'you can reconfigure this by running the FlutterFire CLI again.',
+        );
+      case TargetPlatform.linux:
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for linux - '
+          'you can reconfigure this by running the FlutterFire CLI again.',
+        );
       default:
         throw UnsupportedError(
           'DefaultFirebaseOptions are not supported for this platform.',
@@ -40,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDZDpSoCbi_P5qGiSJE_-nyh9Ametj2VCM',
-    appId: '1:918712125734:android:2262e14a99a4f8e40799e7',
-    messagingSenderId: '918712125734',
-    projectId: 'selldyyab',
-    storageBucket: 'selldyyab.appspot.com',
+    apiKey: 'AIzaSyDRRlCji_BCiD3T-RZYM5tCMOpvehb4ir8',
+    appId: '1:626802187391:android:4c1b2bcf25ab85a24df34a',
+    messagingSenderId: '626802187391',
+    projectId: 'yabyab-b460a',
+    storageBucket: 'yabyab-b460a.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAQAaFWTMdTJI8gehA3zqM0F18i3iaSxE0',
-    appId: '1:918712125734:ios:ed7dceb358ca001e0799e7',
-    messagingSenderId: '918712125734',
-    projectId: 'selldyyab',
-    storageBucket: 'selldyyab.appspot.com',
-    iosClientId: '918712125734-hhuag12fvrf6us6qfk1t4d4jh7jh6qq2.apps.googleusercontent.com',
+    apiKey: 'AIzaSyAvD2Uf3Q3kGamI4YOLYCeiHE4yCF0LGyo',
+    appId: '1:626802187391:ios:f4696db38d8a298f4df34a',
+    messagingSenderId: '626802187391',
+    projectId: 'yabyab-b460a',
+    storageBucket: 'yabyab-b460a.appspot.com',
+    iosClientId: '626802187391-d2l4mlg401ul8p8e8sdqlsq0i959u4k1.apps.googleusercontent.com',
     iosBundleId: 'com.selldy.yab',
   );
 }

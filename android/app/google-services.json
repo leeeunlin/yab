@@ -1,72 +1,40 @@
 {
   "project_info": {
-    "project_number": "918712125734",
-    "project_id": "selldyyab",
-    "storage_bucket": "selldyyab.appspot.com"
+    "project_number": "626802187391",
+    "project_id": "yabyab-b460a",
+    "storage_bucket": "yabyab-b460a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:918712125734:android:2262e14a99a4f8e40799e7",
+        "mobilesdk_app_id": "1:626802187391:android:4c1b2bcf25ab85a24df34a",
         "android_client_info": {
           "package_name": "com.selldy.yab"
         }
       },
       "oauth_client": [
         {
-          "client_id": "918712125734-726nr718did5e3kia01fm61ijn99ntcd.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.selldy.yab",
-            "certificate_hash": "33a5302e60fd50a11534afe5a64ed3beab9f1c54"
-          }
-        },
-        {
-          "client_id": "918712125734-94t29vai0c902pg60gc5etra1en5917n.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.selldy.yab",
-            "certificate_hash": "cb255cf2b1947bc36db9bf29e5176e03ca876c66"
-          }
-        },
-        {
-          "client_id": "918712125734-k4rqtc8dapgmkiiuqltv33k23l4630dd.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.selldy.yab",
-            "certificate_hash": "cc7ef886f4a937d80ad09bc2b05221b94b5d9e1e"
-          }
-        },
-        {
-          "client_id": "918712125734-k7vb545nn1f83pijethrsaig9asp0ei6.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.selldy.yab",
-            "certificate_hash": "44c268b64a720ec6303c3a7db37de3def5c28f5d"
-          }
-        },
-        {
-          "client_id": "918712125734-bjrobvkf85helrlhe1o8qfjhstc9i0b5.apps.googleusercontent.com",
+          "client_id": "626802187391-6jcsf5p6nik4cjgemvec7btgra3vo195.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDZDpSoCbi_P5qGiSJE_-nyh9Ametj2VCM"
+          "current_key": "AIzaSyDRRlCji_BCiD3T-RZYM5tCMOpvehb4ir8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "918712125734-bjrobvkf85helrlhe1o8qfjhstc9i0b5.apps.googleusercontent.com",
+              "client_id": "626802187391-6jcsf5p6nik4cjgemvec7btgra3vo195.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "918712125734-asjfdoh0lhrap1dmp4q40mvopborcg7h.apps.googleusercontent.com",
+              "client_id": "626802187391-d2l4mlg401ul8p8e8sdqlsq0i959u4k1.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.yabV2"
+                "bundle_id": "com.selldy.yab"
               }
             }
           ]
