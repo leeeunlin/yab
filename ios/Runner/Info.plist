@@ -29,7 +29,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.918712125734-hhuag12fvrf6us6qfk1t4d4jh7jh6qq2</string>
+				<string>com.googleusercontent.apps.626802187391-d2l4mlg401ul8p8e8sdqlsq0i959u4k1</string>
 			</array>
 		</dict>
 	</array>
@@ -40,8 +40,6 @@
 	<key>KAKAO_APP_KEY</key>
 	<string>744cab7de2b31e737bfc08b367199f38</string>
 	<key>LSRequiresIPhoneOS</key>
-	<true/>
-	<key>io.flutter.embedded_views_preview</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>QR코드 스캔 기능</string>
@@ -77,6 +75,8 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
+	<key>io.flutter.embedded_views_preview</key>
 	<true/>
 </dict>
 </plist>
