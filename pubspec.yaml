@@ -64,7 +64,7 @@ dependencies:
   google_mobile_ads: ^2.0.0 # Admob 관련 라이브러리
   shared_preferences: ^2.0.15 # 내부 저장소를 이용하는 라이브러리
   firebase_analytics: ^9.3.0 # 파이어베이스 아날라이틱스 유저의 행동 패턴 분석 라이브러리
-  dio: ^4.0.6 # API (주소) 호출 이용 라이브러리
+  dio: ^5.0.3 # API (주소) 호출 이용 라이브러리
   flutter_datetime_picker: ^1.5.1 # 날짜, 시간 선택기 원통형
   numberpicker: ^2.1.1 # 숫자 선택기 원통형
   upgrader: ^4.5.0 # Android & IOS 버전체크하는 라이브러리
