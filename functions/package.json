@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@google-cloud/tasks": "^3.0.2",
-    "firebase-admin": "^11.4.1",
+    "firebase-admin": "^11.11.1",
     "firebase-functions": "^4.0.0-rc.0"
   },
   "devDependencies": {
